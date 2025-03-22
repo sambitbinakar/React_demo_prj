@@ -1,5 +1,5 @@
 import React from "react";
-import Button from "../components/Button ";
+import Button from "../components/Button";
 import { ChevronDown, Copyright, Globe } from "lucide-react";
 
 const Proucts = ["Overview", "Pricing", "Customer stories"];
