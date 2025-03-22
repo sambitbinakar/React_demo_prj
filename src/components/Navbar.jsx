@@ -1,6 +1,6 @@
 import { ChevronDown, Menu } from "lucide-react";
 import React, { useState } from "react";
-import Button from "./button";
+import Button from "./Button";
 
 function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
